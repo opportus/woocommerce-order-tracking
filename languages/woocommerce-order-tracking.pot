@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-16 03:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-order-tracking.php:51 woocommerce-order-tracking.php:58
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: woocommerce-order-tracking.php:107
+msgid "Shipper's URL"
+msgstr ""
+
+#: woocommerce-order-tracking.php:109
+msgid ""
+"Add the new shipper's tracking service URL. Eg for FEDEX: http://www.fedex."
+"com/Tracking?action=track&tracknumbers="
+msgstr ""
+
+#: woocommerce-order-tracking.php:112
+msgid "Shipper's Name"
+msgstr ""
+
+#: woocommerce-order-tracking.php:114
+msgid ""
+"Enter the name of the new shipper. Note that it will be displayed as such to "
+"your customer."
+msgstr ""
+
+#: woocommerce-order-tracking.php:165
+msgid "Set your shippers"
+msgstr ""
+
+#: woocommerce-order-tracking.php:166
+msgid ""
+"In this section, you can add new shippers and/or edit the shippers "
+"previously created."
+msgstr ""
+
+#. Name of the plugin
+#: woocommerce-order-tracking.php:181
+msgid "WooCommerce Order Tracking"
+msgstr ""
+
+#: woocommerce-order-tracking.php:182 woocommerce-order-tracking.php:364
+msgid "Order Tracking"
+msgstr ""
+
+#: woocommerce-order-tracking.php:251
+msgid "Order Tracking Options"
+msgstr ""
+
+#: woocommerce-order-tracking.php:379
+#, php-format
+msgid "You first need to add new shippers on the %s."
+msgstr ""
+
+#: woocommerce-order-tracking.php:379
+msgid "settings page"
+msgstr ""
+
+#: woocommerce-order-tracking.php:389
+msgid "Select the shipper, enter your tracking number and save..."
+msgstr ""
+
+#: woocommerce-order-tracking.php:390
+msgid "Shipper"
+msgstr ""
+
+#: woocommerce-order-tracking.php:392
+msgid "Select the shipper"
+msgstr ""
+
+#: woocommerce-order-tracking.php:403
+msgid "Tracking number"
+msgstr ""
+
+#: woocommerce-order-tracking.php:407
+msgid "Track it"
+msgstr ""
+
+#: woocommerce-order-tracking.php:442
+msgid "Invalid / Missing tracking number or tracking shipper"
+msgstr ""
+
+#: woocommerce-order-tracking.php:486
+#, php-format
+msgid "Shipped by %s"
+msgstr ""
+
+#: woocommerce-order-tracking.php:487
+#, php-format
+msgid "Tracking number: %s"
+msgstr ""
+
+#: woocommerce-order-tracking.php:488
+msgid "Track my order"
+msgstr ""
+
+#. Description of the plugin
+msgid "A simple and flexible order tracking solution for WooCommerce."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/opportus/woocommerce-tracking-number/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Clément Cazaud"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/opportus/"
+msgstr ""
